@@ -28,3 +28,4 @@ import {ProductService} from "./services/products.service";
     bootstrap: [AppComponent]
 })
 export class AppModule { }
+
